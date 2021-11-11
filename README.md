@@ -1,6 +1,5 @@
 ### Olá 🐱👋
-- 📚Estou buscando aprender sobre Front end
-- 👨‍💻Atualmente estou estudando CSS3
+- 👨‍💻Atualmente estou estudando C#
 - 😆Empolgado pelo o que está por vir!
 <div>
   <a href="https://github.com/diglean">
