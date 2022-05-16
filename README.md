@@ -1,5 +1,5 @@
 ### Olá 🐱👋
-- 👨‍💻Atualmente estou estudando C# e JavaScript.
+- 👨‍💻Atualmente estou estudando JavaScript.
 - 😆Empolgado pelo o que está por vir!
 <div>
   <a href="https://github.com/diglean">
