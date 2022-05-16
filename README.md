@@ -1,4 +1,4 @@
-### Olá 🐱👋
+### Olá 👋🐱
 - 👨‍💻Atualmente estou estudando JavaScript.
 - 😆Empolgado pelo o que está por vir!
 <div>
