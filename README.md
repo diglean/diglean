@@ -1,5 +1,5 @@
 ### Oii, meu nome é Diego, sou estudante de programação.
-- 👨‍💻Atualmente estou estudando JavaScript.
+- 👨‍💻Atualmente estou estudando React.Js.
 - 😆Empolgado pelo o que está por vir!
 <div>
   <a href="https://github.com/diglean">
