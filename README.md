@@ -1,6 +1,7 @@
-### Oii, meu nome é Diego, sou estudante de programação.
-- 👨‍💻Atualmente estou estudando React.Js.
-- 😆Empolgado pelo o que está por vir!
+### Hi! My name is Diego, I am a web development student.
+- 👨‍💻 I am focusing my studies on JavaScript;
+- 😆 Looking forward to the future;
+- Welcome(visitor);
 <div>
   <a href="https://github.com/diglean">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=diglean&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
