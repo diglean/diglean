@@ -1,5 +1,5 @@
 ### Hi! My name is Diego, I am a web development student.
-- 👨‍💻 I am focusing my studies on JavaScript;
+- 👨‍💻 I am focusing my studies on Laravel;
 - 😆 Looking forward to the future;
 -  <stron> Welcome(visitor); </stron>
 <div>
@@ -13,12 +13,13 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="diglean-php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
   <img align="center" alt="diglean-laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
-  <img align="center" alt="diglean-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/javascript-plain.svg">
+  <img align="center" alt="diglean-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="diglean-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="diglean-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
   
   ##
+  
 <div>
   <a href="https://instagram.com/diglean" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/diego-leandro-420720217/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
