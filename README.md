@@ -1,7 +1,7 @@
 ### Hi! My name is Diego, I am a web development student.
 - 👨‍💻 I am focusing my studies on Laravel;
 - 😆 Looking forward to the future;
--  <stron> Welcome(visitor); </stron>
+-  <stron> welcome($visitor); </stron>
 <div>
   <a href="https://github.com/diglean">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=diglean&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
